@@ -1,0 +1,86 @@
+
+
+
+{
+
+   
+    "Basics":{
+        "name":"Sachin Vijay Yadav",
+        "Email":"ysachin511@gmail.com",
+        "Phone":"7984573082",
+        "location":{
+            "address":"E.W.S Colony Gandhiwadi",
+            "PostalCode":"396170",
+            "City":"Vapi",
+            "State":"Gujarat",
+            "Distict":"Valsad"
+        }
+    },
+    "Objective":["To secure a challenging position in your organization to expand my skills and work for the growth of organization"],
+     "Experience":[{
+            "Infosys Limited":[{
+                "Designation":"System Engineer",
+                "Work":"Working as a sytem Engineer where my role is to provide support to various activities on my clients application and also I need to do testing of files,Currently handling 3 applications of my client"
+            }]
+     },
+            
+            {
+            "Apar Industries":[{
+                    "Designation":"Maintenance Trainee Engineer",
+                    "Work":"Worked as a maintenace trainee engineer in which my work was to analyze the problem in several cable machines and provide the required solution for fully functional of respective machines"
+                }]
+            }
+
+     ],
+        "Education":[{
+            "College":"MET's Institute of Engineering",
+            "Stream":"Mechanical",
+            "Year":"2020",
+            "Percentage":"75"
+        },
+        {
+           "HSC":"P.G Junior college",
+           "Perctange":"80",
+           "Year":"2016"
+        },
+        {
+            "SSC":"Shri M.K. Mehta English Medium School",
+            "Perctange":"87.40",
+            "Year":"2014"
+        }],
+
+        "Certifications":[{
+            "NPTEL Online Certification":"Successfully Completed course in BETTER SPOKEN ENGLISH from NPTEL under IIT Madras"
+        },
+
+        {
+            "Awards in Weightlifting Competitions":[{
+                "a":"Winer of Deadlift",
+                "b":"Winner of Pushups",
+                "c":"Runner up in Squarts",
+                "d":"Runner up in Benchpress"
+            }]
+        }],
+        
+    
+        "SocialMedia":[{
+            "Facebook":"sachinyadav",
+            "username":"rocky",
+            "url":"www.facebook.com"
+        },
+        {
+            "Twitter":"Sachin Yadav",
+            "username":"sachintweet",
+            "url":"www.twitter.com"
+        },
+        {
+            "Instagram":"Sachin Yadav",
+            "username":"sachinyadav5406",
+            "url":"www.instagram.com"
+        }],
+        "Skills":["SQL","HTML","CSS","JAVASCRIPT"],
+        "Languages":["English","Hindi","Marathi","Gujarati"],
+        "Interests":["BodyBuilding","Playing Cricket"]
+        
+
+        }
